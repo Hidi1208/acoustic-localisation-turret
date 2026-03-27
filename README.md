@@ -129,12 +129,10 @@ Cross-correlation between Mic1 and Mic2 is used to compute time delay, refining 
 
 ```
 firmware/
-  master_esp32/
-  slave_esp32/
+  master/
+  slave/
 
 data/
-docs/
-images/
 ```
 
 ---
