@@ -1,8 +1,8 @@
-# SEC-02 Iron Dome — Real-Time Acoustic Localization System
+# Real-Time Acoustic Localization System
 
 ## Overview
 
-SEC-02 Iron Dome is a real-time acoustic localization system designed to detect impulsive sound events (e.g., claps or gunshots) and orient a pan-tilt mechanism toward the source.
+This is a real-time acoustic localization system designed to detect impulsive sound events (e.g., claps or gunshots) and orient a pan-tilt mechanism toward the source.
 
 The system leverages a distributed **4-microphone array (INMP441)** across two ESP32 microcontrollers and performs **3D spatial localization** using a combination of amplitude-based estimation and Time Difference of Arrival (TDOA) analysis.
 
