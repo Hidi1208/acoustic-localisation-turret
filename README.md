@@ -1,5 +1,9 @@
 # Real-Time Acoustic Localization System
 
+![Turret Setup](images/turret-hero-cropped.png)
+
+![Alternate View](images/turret-hero-alt.png)
+
 ## Overview
 
 This is a real-time acoustic localization system designed to detect impulsive sound events (e.g., claps or gunshots) and orient a pan-tilt mechanism toward the source.
